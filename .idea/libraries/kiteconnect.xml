@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kiteconnect">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../ROI/jars/kiteconnect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
